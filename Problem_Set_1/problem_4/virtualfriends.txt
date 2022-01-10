@@ -1,0 +1,10 @@
+3
+3
+Fred Barney
+Barney Betty
+Betty Wilma
+2
+Fred Barney
+Betty Wilma
+1
+Betty Betty
