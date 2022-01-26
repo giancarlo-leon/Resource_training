@@ -1,0 +1,15 @@
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\bin\Debug\netcoreapp3.1\Problem4.exe
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\bin\Debug\netcoreapp3.1\Problem4.deps.json
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\bin\Debug\netcoreapp3.1\Problem4.runtimeconfig.json
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\bin\Debug\netcoreapp3.1\Problem4.runtimeconfig.dev.json
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\bin\Debug\netcoreapp3.1\Problem4.dll
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\bin\Debug\netcoreapp3.1\Problem4.pdb
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\obj\Debug\netcoreapp3.1\Problem4.csprojAssemblyReference.cache
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\obj\Debug\netcoreapp3.1\Problem4.Form1.resources
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\obj\Debug\netcoreapp3.1\Problem4.csproj.GenerateResource.cache
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\obj\Debug\netcoreapp3.1\Problem4.AssemblyInfoInputs.cache
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\obj\Debug\netcoreapp3.1\Problem4.AssemblyInfo.cs
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\obj\Debug\netcoreapp3.1\Problem4.csproj.CoreCompileInputs.cache
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\obj\Debug\netcoreapp3.1\Problem4.dll
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\obj\Debug\netcoreapp3.1\Problem4.pdb
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem4\Problem4\obj\Debug\netcoreapp3.1\Problem4.genruntimeconfig.cache
