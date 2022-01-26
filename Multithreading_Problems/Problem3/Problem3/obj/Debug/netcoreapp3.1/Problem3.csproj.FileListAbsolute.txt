@@ -1,0 +1,13 @@
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.exe
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.deps.json
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.runtimeconfig.json
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.runtimeconfig.dev.json
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.dll
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\bin\Debug\netcoreapp3.1\Problem3.pdb
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.csprojAssemblyReference.cache
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.AssemblyInfoInputs.cache
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.AssemblyInfo.cs
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.csproj.CoreCompileInputs.cache
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.dll
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.pdb
+D:\projects\dev_trainning\Resource_training\Multithreading_Problems\Problem3\Problem3\obj\Debug\netcoreapp3.1\Problem3.genruntimeconfig.cache
